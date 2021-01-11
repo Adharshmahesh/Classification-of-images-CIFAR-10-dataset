@@ -9,11 +9,7 @@ Original file is located at
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 10 01:51:15 2020
 
-@author: nithila
-"""
 import torch
 import torchvision
 import torchvision.transforms as transforms
